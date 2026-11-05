@@ -30,7 +30,7 @@
 | 🏫 **SchoolBloom** | a unified platform for managing Kenyan schools under the CBC curriculum | TypeScript, React |
 | ✅ **Tendy** | Personal university attendance tracker with cloud sync | Python, Firebase |
 | ☕ **Coffee Recommender** | AI-based coffee recommendation system | Python, Machine Learning |
-| 📱 **NFC Contact Share** *(idea in progress)* | Android app that turns your phone into an NFC tag so anyone can tap to receive your contact | Android, NFC (HCE) |
+| 📱 **NFC Contact Share** | Android app that turns your phone into an NFC tag so anyone can tap to receive your contact | Android, NFC (HCE) |
 
 ---
 
