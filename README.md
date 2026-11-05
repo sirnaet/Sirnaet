@@ -2,9 +2,9 @@
 
 # Hey, I'm Sanaet Memusi 👋
 
-### aka **SirNaet** · Software Engineer · Embedded Systems & IoT · ICS Student
+### CyberSecurity · Software Engineer · Embedded Systems & IoT · ICS Student
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=520&lines=Building+software+that+solves+real+problems;Collaborative+Software+Engineer+%40+Hackeric+Labs;Learning+something+new+every+day" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=520&lines=Building+software+that+solves+real+problems;Software+Engineer;Learning+something+new+every+day" alt="Typing SVG" />
 
 ![Location](https://img.shields.io/badge/Nairobi-Kenya-black?style=flat-square&logo=googlemaps&logoColor=white)
 ![University](https://img.shields.io/badge/Strathmore_University-ICS-blue?style=flat-square)
