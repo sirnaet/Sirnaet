@@ -53,7 +53,7 @@
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=sirnaet&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirnaet&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=sirnaet&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 </div>
 
