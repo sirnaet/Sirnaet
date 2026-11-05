@@ -50,10 +50,10 @@
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=sirnaet&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sirnaet&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+<img src="https://ghchart.rshah.org/2F81F7/sirnaet" alt="Contribution graph" width="90%" />
 
-<img src="https://streak-stats.demolab.com?user=sirnaet&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+<a href="https://github.com/sirnaet?tab=repositories"><img src="https://img.shields.io/badge/Browse_all_repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" /></a>
+
 
 </div>
 
