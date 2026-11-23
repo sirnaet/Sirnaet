@@ -21,7 +21,7 @@
 - 💼 Collaborative Software Engineer at **Finesy Enterprise – Hackeric Labs** (R&D team), Nairobi
 - 🇩🇪 Picking up **German** (A1 and counting)
 - 📸 Outside of code: photography and photo editing
-- Have a look at my ![Portfolio](https://sanaetmemusi-f7434.web.app)
+- Have a look at my [Portfolio](https://sanaetmemusi-f7434.web.app)
 
 ---
 
