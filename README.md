@@ -29,7 +29,7 @@
 
 | Project | Description | Tech |
 |---|---|---|
-| 🏫 **SchoolBloom** | a unified platform for managing Kenyan schools under the CBC curriculum | TypeScript, React |
+| 🏫 **SchoolBloom** | a unified platform for managing Kenyan schools under the CBC curriculum | TypeScript, React, Supabase |
 | ✅ **Tendy** | Personal university attendance tracker with cloud sync | Python, Firebase |
 | ☕ **BaristaBot** | AI-based coffee recommendation Android App | Python, Machine Learning, Kotlin |
 | 📱 **NFC Contact Share** | Android app that turns your phone into an NFC tag so anyone can tap to receive your contact | Android, NFC (HCE) |
