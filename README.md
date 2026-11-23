@@ -9,7 +9,7 @@
 ![Location](https://img.shields.io/badge/Nairobi-Kenya-black?style=flat-square&logo=googlemaps&logoColor=white)
 ![University](https://img.shields.io/badge/Strathmore_University-ICS-blue?style=flat-square)
 ![Status](https://img.shields.io/badge/Open_to-Collaboration-brightgreen?style=flat-square)
-![Portfolio](https://sanaetmemusi-f7434.web.app)
+
 
 </div>
 
@@ -21,6 +21,7 @@
 - 💼 Collaborative Software Engineer at **Finesy Enterprise – Hackeric Labs** (R&D team), Nairobi
 - 🇩🇪 Picking up **German** (A1 and counting)
 - 📸 Outside of code: photography and photo editing
+- Have a look at my ![Portfolio](https://sanaetmemusi-f7434.web.app)
 
 ---
 
