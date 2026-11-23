@@ -9,6 +9,7 @@
 ![Location](https://img.shields.io/badge/Nairobi-Kenya-black?style=flat-square&logo=googlemaps&logoColor=white)
 ![University](https://img.shields.io/badge/Strathmore_University-ICS-blue?style=flat-square)
 ![Status](https://img.shields.io/badge/Open_to-Collaboration-brightgreen?style=flat-square)
+![Portfolio](https://sanaetmemusi-f7434.web.app)
 
 </div>
 
@@ -29,7 +30,7 @@
 |---|---|---|
 | 🏫 **SchoolBloom** | a unified platform for managing Kenyan schools under the CBC curriculum | TypeScript, React |
 | ✅ **Tendy** | Personal university attendance tracker with cloud sync | Python, Firebase |
-| ☕ **Coffee Recommender** | AI-based coffee recommendation system | Python, Machine Learning |
+| ☕ **BaristaBot** | AI-based coffee recommendation Android App | Python, Machine Learning, Kotlin |
 | 📱 **NFC Contact Share** | Android app that turns your phone into an NFC tag so anyone can tap to receive your contact | Android, NFC (HCE) |
 
 ---
@@ -45,6 +46,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 
 ---
 
